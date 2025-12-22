@@ -10,7 +10,12 @@ public class GitPushTutorial {
        STEP 4 = git branch -M main
        STEP 5 = git remote add origin ( REPO LINK )
        STEP 6 = git push -u origin main
+
 */
-        System.out.println("This is GitHub Tutorial");
+
+        String firstName = "Ammar", lastName = "Kafle";
+        System.out.println("This is GitHub Tutorial made by " + firstName +" " + lastName);
+
+
     }
 }
