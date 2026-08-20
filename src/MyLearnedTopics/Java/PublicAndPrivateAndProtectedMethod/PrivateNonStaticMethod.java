@@ -1,4 +1,4 @@
-package MyLearnedTopics.Java.PublicAndPrivateMethod;
+package MyLearnedTopics.Java.PublicAndPrivateAndProtectedMethod;
 
 public class PrivateNonStaticMethod {
     // Creating Private Non-Static Function or Method

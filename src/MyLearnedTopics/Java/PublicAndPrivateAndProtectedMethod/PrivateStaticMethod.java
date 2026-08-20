@@ -1,4 +1,4 @@
-package MyLearnedTopics.Java.PublicAndPrivateMethod;
+package MyLearnedTopics.Java.PublicAndPrivateAndProtectedMethod;
 
 public class PrivateStaticMethod {
     // Creating Private Static Function Method
